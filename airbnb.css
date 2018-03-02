@@ -1,0 +1,9 @@
+/* Header Footer */
+header, footer {
+    padding: 1em;
+    color: blue;
+    background-color: rgb(176, 230, 205);
+    clear: left;
+    text-align: center;
+    font-size: 1.4em;
+}
